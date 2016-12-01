@@ -69,8 +69,9 @@ nav a:hover {
 
   nav li {
     display: inline-block;
-    text-align: left;
+    text-align: center;
     width: 50%;
+    float: left;
   }
 
 }
