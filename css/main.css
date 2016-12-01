@@ -26,6 +26,7 @@ header {
   padding: .5rem 0;
   background-color: #18294f;
   text-align: center;
+  overflow: hidden;
 }
 
 h1 {
