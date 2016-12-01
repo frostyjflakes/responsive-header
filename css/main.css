@@ -36,13 +36,12 @@ h1 {
 
 nav ul {
   margin: 0;
-  padding: .75em;
+  padding: 0;
   font-size: 1.125rem;
 }
 
 nav li {
   text-align: left;
-  padding: .5em;
 }
 
 nav a {
@@ -64,10 +63,6 @@ nav a:hover {
     text-align: center;
   }
 
-  nav {
-    padding-left: 3rem;
-  }
-
 }
 
 @media only screen and (min-width: 38em) {
@@ -75,18 +70,6 @@ nav a:hover {
   html {
     font-size: 110%;
     line-height: 1.4;
-  }
-
-  nav a {
-    padding-right: 1.5em;
-  }
-
-  nav li:last-child {
-    padding-left: 3em;
-  }
-
-  nav {
-    padding-left: 2em;
   }
 
 }
