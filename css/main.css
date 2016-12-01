@@ -24,7 +24,7 @@ body {
 
 header {
   padding: .5rem 0;
-  background-color: ##18294f;
+  background-color: #18294f;
   text-align: center;
 }
 
@@ -106,6 +106,14 @@ nav a:hover {
   html {
     font-size: 130%;
     line-height: 1.5;
+  }
+
+  h1 {
+    float: left;
+  }
+
+  nav {
+    float: right;
   }
 
 }
