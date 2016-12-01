@@ -59,7 +59,7 @@ nav a:hover {
 @media only screen and (min-width: 25em) {
 
   header {
-    margin: 0;
+    padding: 3rem;
   }
 
   nav li {
