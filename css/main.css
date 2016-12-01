@@ -50,6 +50,7 @@ nav a {
   padding: .5em .75em;
   color: #6c8fe0;
   text-decoration: none;
+  white-space: nowrap;
 }
 
 nav a:hover {
